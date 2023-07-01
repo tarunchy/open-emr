@@ -33,5 +33,5 @@ This repository contains a Dockerfile and shell scripts for building and running
 
 ## Author
 
-This repository was created by Tarun Chawdhury. If you have any questions or feedback, please feel free to contact me at tarun.chawdhury@example.com.
+This repository was created by Tarun Chawdhury. If you have any questions or feedback, please feel free to contact me at tarun.chawdhury@dlyog.com.
 
